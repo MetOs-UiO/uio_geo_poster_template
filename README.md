@@ -1,2 +1,3 @@
-# uio_geo_poster_template
-Poster template (.odp)
+# Poster template for Geo based on the design rules of UiO
+Currently supported formates:
+.odp
