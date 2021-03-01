@@ -1,6 +1,7 @@
 # Poster template for Geo based on the design rules of UiO
+
 Currently supported formates:
-.odp, .svg
+.odp (portrait), .svg (landscape)
 
 Links:
 - [Overleaf/tex](https://no.overleaf.com/latex/templates/uioposter/tsmrpnztthrr) template example for a poster at UiO. 
